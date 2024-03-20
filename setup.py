@@ -8,7 +8,7 @@ setup(
     description='A simple project description',
     long_description=open('README.md').read(),
     install_requires=['numpy', 'tensorflow'], 
-    url='https://github.com/VladaDanilova/test-connection',
+    url='https://github.com/VladaDanilova/test-connectionSomeoneWS',
     author='Vlada Danilova',
     author_email='just.you177@gmail.com'
 )
